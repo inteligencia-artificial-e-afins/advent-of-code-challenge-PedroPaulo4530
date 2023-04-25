@@ -15,4 +15,20 @@ A estrutura dos códigos deve ser criado de acordo com o dia e os códigos. Vide
     - sample.in
     - solution_part_i.py
     - solution_part_ii.py
+- 03
+    - sample.in
+    - solution_part_i.py
+    - solution_part_ii.py
+- 04
+    - sample.in
+    - solution_part_i.py
+    - solution_part_ii.py
+- 05
+    - sample.in
+    - solution_part_i.py
+    - solution_part_ii.py
+- 06
+    - sample.in
+    - solution_part_i.py
+    - solution_part_ii.py
 ```
